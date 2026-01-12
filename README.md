@@ -28,7 +28,7 @@ The result of the object replacement with the 3DGS asset within the given scene:
 </p>
 
 ## 2. Diffusion image render
-Current result was obtained using [Difix](https://huggingface.co/spaces/nvidia/difix) which show that the current method does work but it still requires finetuning so obtain the better results (e.g. reflections/shadows should be added as well):
+Current result was obtained using [Difix](https://huggingface.co/spaces/nvidia/difix) which show that the current method does work but it still requires finetuning to obtain the better results (e.g. reflections/shadows should be added as well):
 <p align="center">
   <img src="docs/insertation_rotation_image.png" alt="edited object"/>
   <img src="docs/difix_image.png" alt="Difix"/>
